@@ -71,7 +71,7 @@ Este proyecto fue realizado con fines de aprendizaje y portfolio, siguiendo buen
 
 ## Dashboard
 
-![Dashboard de gasto público](./dashboard/dashboard.png)
+![Dashboard de gasto público](./dashboard/Dashboard.png)
 
 
 Autor: Roger Morinigo
