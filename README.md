@@ -61,13 +61,6 @@ El dashboard permite interactuar con los gráficos (mostrar u ocultar funciones)
 
 Dataset público oficial sobre gasto público consolidado, descargado de un portal gubernamental de datos abiertos.
 
----
-
-## Notas
-
-Este proyecto fue realizado con fines de aprendizaje y portfolio, siguiendo buenas prácticas de análisis de datos, separación de capas (datos, análisis y visualización) y presentación clara de resultados.
-
----
 
 ## Dashboard
 
